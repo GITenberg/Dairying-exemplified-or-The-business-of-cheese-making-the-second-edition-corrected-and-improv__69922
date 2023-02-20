@@ -1,11 +1,16 @@
 _repo: Dairying-exemplified-or-The-business-of-cheese-making-the-second-edition-corrected-and-improv__69922
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69922-h/images/cover.jpg
 creator:
   author:
     agent_name: Twamley, J.
     gutenberg_agent_id: '55493'
     url: http://www.gutenberg.org/2009/agents/55493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69922#Dairying-exemplified-or-The-business-of-cheese-making-the-second-edition-corrected-and-improv_
 gutenberg_issued: '2023-02-01'
 identifiers:
   gutenberg: '69922'
